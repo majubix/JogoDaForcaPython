@@ -1,0 +1,1 @@
+Criando um jogo da forca em Python, tambem utilizei o terminal windows para instalar a biblioteca pois quando uso diretamente o vscode ele não reconhece.
